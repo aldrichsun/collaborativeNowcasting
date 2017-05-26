@@ -1,7 +1,9 @@
 /****************************
-Author: Yu Sun <yusun.aldrich@gmail.com>
-Date: 27 May 2017
-Version: 0.8
+*
+* Author: Yu Sun <yusun.aldrich@gmail.com>
+* Date: 27 May 2017
+* Version: 0.8
+*
 ****************************/
 
 A. This code re-implements the two-step collaborative nowcasting model introduced in the papers:
@@ -10,6 +12,7 @@ and
 2. Yu Sun, Nicholas Jing Yuan, Xing Xie, Kieran McDonald, Rui Zhang. Collaborative Intent Prediction with Real-Time Contextual Data, ACM Transactions on Information Systems (TOIS), accepted, 2017.
 
 B. The structure of the software is as follows.
+
 	----folder dataExample: contains randomly generated example input data.
 	
 	----parafac2: an open-source version of parafac2 decomposition.
